@@ -1,0 +1,14 @@
+# Entornos virtuales
+eda_env/
+venv/
+env/
+ENV/
+
+# Archivos temporales de Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
